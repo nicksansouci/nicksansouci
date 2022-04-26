@@ -1,6 +1,6 @@
 - Hi there 👋
 
-- I'm an aspiring Software Engineer primarily focused on Financial Engineering, Deep Learning/Machine Learning, Algorithm Design/Implementation, Quantitative Finance, & Backend Engineering.
+- I'm an aspiring Software Engineer primarily focused on Quantitative Financial Engineering, Deep Learning/Machine Learning, Algorithm Design/Implementation, &  Backend Engineering.
 
 
 <!--
