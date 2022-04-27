@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksansouci&layout=compact&hide=javascript)](https://github.com/nicksansouci/github-readme-stats)
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksansouci&show_icons=true&theme=tokyonight&hide=contribs,issues)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksansouci&layout=compact&hide=javascript)](https://github.com/nicksansouci/github-readme-stats)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksansouci&show_icons=true&theme=tokyonight&hide=contribs,issues) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicksansouci&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksansouci&layout=compact&hide=javascript)](https://github.com/nicksansouci/github-readme-stats" />
+</a>
 
