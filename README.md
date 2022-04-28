@@ -2,7 +2,9 @@
 
 - I'm an aspiring Software Engineer primarily focused on Quantitative Financial Engineering, Deep Learning/Machine Learning, Algorithm Design/Implementation, &  Backend Engineering.
 
-- I enjoy designing and implementing high performance infrastructure, statistical analysis, and efficient problem solving techniques into my work.
+- I enjoy designing and implementing high performance infrastructure, statistical analysis, and efficient problem solving techniques into my work.  I love combining math
+- and programming to accomplish any task delegated to me. 
+
 
 <!--
 **nicksansouci/nicksansouci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
