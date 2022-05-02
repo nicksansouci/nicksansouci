@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
  
 @settings {
-  font-size: 100;
+  font-size: 200;
 }
