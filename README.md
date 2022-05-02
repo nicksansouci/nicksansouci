@@ -1,4 +1,4 @@
-- Hi there 👋
+Hi there 👋
 
 - I'm an aspiring Software Engineer primarily focused on Quantitative Financial Engineering, Deep Learning/Machine Learning, Algorithm Design/Implementation, &  Backend Engineering.
 
