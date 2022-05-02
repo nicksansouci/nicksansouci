@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksansouci&show_icons=true&theme=tokyonight&hide=contribs,issues&cache_seconds=1800)
 
  
-@settings {
-  font-size: 200;
-}
